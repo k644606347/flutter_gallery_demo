@@ -131,7 +131,6 @@ class _GalleryAppState extends State<GalleryApp> {
       );
     }
 
-
     return ScopedModel<AppStateModel>(
       model: model,
       child: MaterialApp(
