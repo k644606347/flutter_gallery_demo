@@ -383,7 +383,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ljy.flutter.examples.gallery;
+				PRODUCT_BUNDLE_IDENTIFIER = ljy.io.flutter.gallery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Profile;
@@ -511,7 +511,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ljy.flutter.examples.gallery;
+				PRODUCT_BUNDLE_IDENTIFIER = ljy.io.flutter.gallery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -533,7 +533,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ljy.flutter.examples.gallery;
+				PRODUCT_BUNDLE_IDENTIFIER = ljy.io.flutter.gallery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
